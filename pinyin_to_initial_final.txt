@@ -86,7 +86,7 @@ fen f en
 feng f eng
 fo f o
 fou f ou
-fu f o f u
+fu f o
 ga g a
 gai g ai
 gan g an
@@ -201,7 +201,7 @@ miu m iu
 mo m o
 mou m ou
 mu m u
-na n a n an
+na n a
 nai n ai
 nan n an
 nang n ang
@@ -363,7 +363,7 @@ yu vv v
 yuan vv van
 yue vv ve
 yun vv vn
-za z a z
+za z a
 zai z ai
 zan z an
 zang z ang
